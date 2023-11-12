@@ -1,33 +1,35 @@
 Algoritmo "Produtos"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 Var
+
    produtoUm : caractere
-   produtoDois : caractere
+   produtoDois: caractere
    precoUm : real
    precoDois : real
    idade : inteiro
    codigo : inteiro
    genero : caractere
-
+   
 Inicio
 
-      produtoUm <- "computador"
-      produtoDois <- "TV"
+      produtoUm <- "Computador"
+      produtoDois <- "Tv"
       precoUm <- 2100.5
-      precoDois <- 1830
+      precoDois <- 1830.0
       idade <- 30
       codigo <- 5291
-      genero <- "Feminino"
+      genero <- "F"
       
       escreval("Produtos:")
+      escreval("O produto ", produtoUm, " custa R$", precoUm)
+      escreval("O produto ", produtoDois, " custa R$", precoDois)
       escreval
-      escreval("O produto: ", produtoUm, " custa R$", precoUm)
-      escreval("O produto: ", produtoDois, " custa R$", precoDois)
+      escreval("Código =", codigo)
       escreval
-      escreval("Código = ", codigo)
-      escreval
-      escreval("Dados do cliente: genero ", genero, " e idade", idade )
+      escreval("Dados do cliente:")
+      escreval("Genero: ", genero)
+      escreval("Idade:", idade)
       
-
-
 Fimalgoritmo
