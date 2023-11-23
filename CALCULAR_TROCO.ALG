@@ -1,6 +1,8 @@
 Algoritmo "calcular_troco"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+
+// Este algoritimo irá fazer a função de um caixa de supermercado
+// Irá pedir o preço e a quantidade do produto
+// Logo após isso irá dizer o troco do cliente caso necessário
 
 Var
 

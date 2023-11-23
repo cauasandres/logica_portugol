@@ -1,6 +1,6 @@
 Algoritmo "raio_circulo"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+
+// Este programa irá calcular o raio de um circulo
 
 Var
 

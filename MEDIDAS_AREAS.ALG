@@ -1,6 +1,8 @@
 Algoritmo "medidas_areas"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+
+// Este programa irá pedir três valores
+// De acordo com os valores ele irá dar três medidas
+// Aréa do quadrado, área do tringulo e a área do trapezio
 
 Var
 

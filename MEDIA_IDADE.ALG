@@ -1,6 +1,6 @@
 Algoritmo "media_idade"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
+// Este algoritimo irá calcular a média de duas idades
 
 Var
 

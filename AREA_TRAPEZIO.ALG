@@ -1,6 +1,6 @@
 Algoritmo "area_trapezio"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : eu mesmo
+
+// Esse algoritimo irá calcular a area de um trapezio
 
 Var
 

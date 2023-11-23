@@ -1,6 +1,7 @@
 Algoritmo "combustivel_medio"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+
+// Este algoritimo irá calcular o consumo médio de um veículo.
+// Irá calcular a distância (Km) e a quantidade de combustivel gasto.
 
 Var
 

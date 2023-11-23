@@ -1,5 +1,7 @@
 Algoritmo "distancia_dardo"
 
+// Este algoritimo irá ler a maior distância de três arremessos de dardos.
+
 Var
 
    distUm, distDois, distTres : real

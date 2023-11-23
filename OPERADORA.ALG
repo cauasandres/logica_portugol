@@ -1,5 +1,7 @@
 Algoritmo "operadora"
 
+// Este algoritimo irá servir como pagamento de uma operadora
+// Irá ter um preço final de acordo com a quantidade de minutos ultilizados
 
 Var
 

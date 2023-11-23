@@ -1,5 +1,6 @@
 Algoritmo "multiplos"
 
+// Este programa irá identificar se dois números são multiplos ou não.
 
 Var
 

@@ -1,16 +1,16 @@
 Algoritmo "estrutura_se-senao"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 30/10/2023
+
+// Este programa irá pedir dois valores
+// Logo após isso irá perguntar qual a operação que deseja usar
+// E no final irá fazer o calculo de acordo com o que foi escolhido
+
 Var
-// Seção de Declarações das variáveis 
+
    valorUm, valorDois, resultado: real
    operacao: caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+
    escreval("Qual a operação que irá usar? Ex: +, -, *, /")
    leia(operacao)
    escreval("Qual o primeiro valor?")

@@ -1,6 +1,6 @@
 Algoritmo "Produtos"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
+// Produtos de uma loja
 
 Var
 

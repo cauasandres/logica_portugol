@@ -1,6 +1,8 @@
 Algoritmo "LANCHONETE_CODIGOS"
 
-
+// Este programa irá funcionar como caixa de uma lanchonete
+// Cada lanche tem um código, cada código tem seu valor
+// No final irá identificar o preço do código determinado e a quantidade
 
 Var
 

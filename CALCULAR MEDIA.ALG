@@ -1,16 +1,15 @@
 Algoritmo "Calcular media"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 26/10/2023
+
+// Este algoritimo irá calcular a primeira e a segunda nota de um aluno
+// Caso a média der maior que 5.0 então será aprovado
+
 Var
-// Seção de Declarações das variáveis 
+
    notaUm, notaDois, media: real
    nome: caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+
    escreval("Qual seu nome:")
    leia(nome)
    escreval("Qual a sua primeira nota:")

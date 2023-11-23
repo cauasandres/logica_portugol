@@ -1,5 +1,9 @@
 Algoritmo "conversao_temperatura"
 
+// Este algoritimo irá pedir a temperatura em Celcius ou Fahrenheit
+// Logo após isso ele irá fazer a conversão de temperatura
+// Você pode escolher qual será convertido
+
 Var
 
    far, ce : real

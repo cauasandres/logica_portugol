@@ -1,5 +1,8 @@
 Algoritmo "horas"
 
+// Este programa irá ler o horário do dia
+// Logo após isso irá dar ou Bom dia ou Boa tarde ou Boa noite
+// Irá depender do horário
 
 Var
 

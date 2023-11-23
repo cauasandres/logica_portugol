@@ -1,5 +1,8 @@
 Algoritmo "notas"
 
+// Este algoritimo irá pedir três notas de um aluno
+// Após isso irá fazer a media e se caso for maior que 60 esta aprovado
+
 Var
 
    notaUm, notaDois, media : real

@@ -1,6 +1,6 @@
 Algoritmo "troco_verificado"
 
-
+// Irá calcular o troco do cliente
 
 Var
 

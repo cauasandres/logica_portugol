@@ -1,17 +1,15 @@
 Algoritmo "Tipos de operações lógicas"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 26/10/2023
+
+// Tipos de operações lógicas em Portugol
+
 Var
-// Seção de Declarações das variáveis
+
    notaUm, notaDois, media: real
    nome: caractere
    passou: logico
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+
    passou := falso
    escreval("Qual seu nome:")
    leia(nome)

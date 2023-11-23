@@ -1,5 +1,8 @@
 Algoritmo "calcular_terreno"
-// Disciplina   : [Linguagem e Lógica de Programação]
+
+// Este algoritimo irá ler a largura e o comprimento de um terreno
+// Logo após isso irá calcular a área do terreno
+// De acordo com esses dados ele irá dar um valor ao terreno
 
 Var
 

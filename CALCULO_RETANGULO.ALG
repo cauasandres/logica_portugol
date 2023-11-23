@@ -1,6 +1,6 @@
 Algoritmo "calculo_retangulo"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : batata
+
+// Este algoritimo irá calcular a área, perimetro e a diagonal de um triangulo.
 
 Var
 

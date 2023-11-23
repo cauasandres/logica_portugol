@@ -1,6 +1,6 @@
 Algoritmo "soma"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+
+// Soma de dois números
 
 Var
 

@@ -1,5 +1,7 @@
 Algoritmo "nivel_glicose"
 
+// Este algoritimo irá identificar o nivel de glicose de um paciente
+
 Var
 
    glicose : real

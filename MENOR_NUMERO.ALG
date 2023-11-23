@@ -1,5 +1,7 @@
 Algoritmo "menor_numero"
 
+// Este algoritimo irá identificar o menor número de três
+
 Var
 
    a, b, c : inteiro

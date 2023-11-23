@@ -1,6 +1,6 @@
 Algoritmo "pagamento_funcionario"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+
+// Este programa irá caluclar o valor hora do funcionário
 
 Var
 
