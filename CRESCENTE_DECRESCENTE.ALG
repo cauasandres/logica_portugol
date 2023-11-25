@@ -1,6 +1,6 @@
 Algoritmo "crescente_decrescente"
 
-// Exercicios estrutura "escolha"
+// Exercicios estrutura "enquanto"
 
 Var
 
@@ -9,7 +9,7 @@ Var
 Inicio
 
 
-      escreval("Digite dois números: ")
+      escreval("Digite dois nÃºmeros: ")
       leia(nUm)
       leia(nDois)
       
